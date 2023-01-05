@@ -10,16 +10,27 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-merch%C3%A1n-andrade/)
-
    <div id="header" align="left">
 
 ### :smiley:A continuación te cuento un poco sobre mi carrera profesional :
 
-     - 👩‍🔬 Soy una Bióloga que ha empezado a explorar el mundo de la ciencia de datos.
-     - 🔭 Actualmente trabajo como freelancer gestionando bases de datos para un estudio jurídico.
-     - 🌱 Decidí aprender ciencia de datos a través de Practicum Yandex para darle un giro a mi carrera. 
-     - 👓 Todavía estoy puliendo mis conocimientos en Python, SQL y Machine Learning.
-     - ⚡ Un fun fact sobre mí es que me gusta mucho el cine y me encanta ver todo tipo de películas.
+ - 👩‍🔬 Soy una Bióloga que ha empezado a explorar el mundo de la ciencia de datos. 
+     
+ - 📖 Tengo publicaciones en revistas científicas y también ayudé a escribir un catálogo sobre insectos acuáticos 🐛.
+     
+ - 🔭 Actualmente trabajo como freelancer gestionando bases de datos para un estudio jurídico.
+     
+ - 🌱 Decidí aprender ciencia de datos a través de Practicum Yandex para darle un giro a mi carrera. 
+     
+ - 👓 Todavía estoy puliendo mis conocimientos en Python, SQL y Machine Learning, quiero mejorar mis habilidades de codificar.
+     
+ - ⚡ Un fun fact sobre mí es que me gusta mucho el cine y el kpop 🕺.
 
+ - :mailbox: Estoy buscando oportunidades de utilizar mis conocimientos en Data Science y Biología, aquí te dejo mi LinkedIn para contactarnos: [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-merch%C3%A1n-andrade/)
+
+
+### :hammer_and_wrench: Estos son los lenguajes y herramientas que utilizo:
+     
+<div id="header" align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
 
