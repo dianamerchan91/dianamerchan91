@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://github.com/dianamerchan91/dianamerchan91/blob/main/Banner%20Github.png" width="800"/>
+</div>
 ### Hi there 👋
 
 <!--
