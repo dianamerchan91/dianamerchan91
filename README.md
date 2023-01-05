@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/dianamerchan91/dianamerchan91/blob/main/Banner%20Github.png" width="800"/>
+  <img src="https://github.com/dianamerchan91/dianamerchan91/blob/main/Green%20and%20White%20Abstract%20Welcome%20to%20Our%20Class%20Google%20Classroom%20Header%20(1).jpg" width="800"/>
 </div>
 ### Hi there 👋
 
